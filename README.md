@@ -1,6 +1,6 @@
  Hi 👋, I'm Maha Irfan
 
-🚀 About Me
+🚀 *About Me*
 I am a passionate Computer Science student focused on learning programming, problem solving, and building real-world projects. I enjoy working with Python and exploring new technologies in software development and data.
 
 - 🎓 Currently studying: Computer Science
@@ -14,7 +14,7 @@ I am a passionate Computer Science student focused on learning programming, prob
 - Building mini projects (banking system, asset tracker, etc.)  
 - Practicing problem solving & logic building  
 
-🛠️ Tech Stack
+🛠️ *Tech Stack*
 Languages:
 - Python 🐍  
 - C / C++ (if applicable)  
@@ -26,11 +26,11 @@ Languages:
 - PyCharm  
 - Jupyter Notebook  
 
-📊 GitHub Stats
+📊 *GitHub Stats*
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahairfan28&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahairfan28&layout=compact&theme=tokyonight)
 
- 💻 Featured Projects
+ 💻 *Featured Projects*
  
 > 🏦 Banking System (Python)
 A simple console-based banking system with features like deposit, withdrawal, and balance check.
@@ -41,7 +41,7 @@ A Python + SQLite project to manage company assets efficiently with a GUI interf
 > 📊 Data Analysis Mini Projects
 Basic data analysis using Python libraries like Pandas and Matplotlib.
 
-## 📫 Connect With Me
+## 📫 *Connect With Me*
 - GitHub: [mahairfan28](https://github.com/mahairfan28)
 - Email: iamahairfan@gmail.com
 - LinkedIn: www.linkedin.com/in/maha-irfan-58017032a
