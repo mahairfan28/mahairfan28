@@ -8,7 +8,7 @@ I am a passionate Computer Science student focused on learning programming, prob
 - 🎯 Goal: To become a skilled Software Developer / Data Analyst
 - 💡 I love building small projects to improve my skills
 
-🧠 Current Focus
+🧠 *Current Focus*
 - Improving Python programming skills  
 - Learning Git & GitHub workflow  
 - Building mini projects (banking system, asset tracker, etc.)  
