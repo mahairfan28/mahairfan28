@@ -6,7 +6,7 @@ I am a passionate Computer Science student focused on learning programming, prob
 - 🎓 Currently studying: Computer Science
 - 🌱 Currently learning: Python, Data Structures, and Git/GitHub
 - 🎯 Goal: To become a skilled Software Developer / Data Analyst
-- 💡 I love building small projects to improve my skills
+- 💡 I love building small projects to improve my skilla
 
 🧠 *Current Focus*
 - Improving Python programming skills  
