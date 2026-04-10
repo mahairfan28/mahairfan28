@@ -3,7 +3,7 @@
 🚀 *About Me*
 I am a passionate Computer Science student focused on learning programming, problem solving, and building real-world projects. I enjoy working with Python and exploring new technologies in software development and data.
 
-- 🎓 Currently studying: Computer Science
+- 🎓 Currently studying: Finance & Technology
 - 🌱 Currently learning: Python, Data Structures, and Git/GitHub
 - 🎯 Goal: To become a skilled Software Developer / Data Analyst
 - 💡 I love building small projects to improve my skilla
